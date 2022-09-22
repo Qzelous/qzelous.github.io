@@ -1,2 +1,0 @@
-# qzeloushub
-Qzelous services portfolio
