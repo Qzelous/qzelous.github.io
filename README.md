@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://www.qzelous.github.io
+/">
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
